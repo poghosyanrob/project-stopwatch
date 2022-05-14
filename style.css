@@ -1,0 +1,36 @@
+div {
+    width: 300px; 
+    height: 300px; 
+    border-radius: 50%; 
+    border: 1px solid; 
+    margin: 100px auto; 
+    background-color: black;
+}
+#stopwatch {
+    text-align: center; 
+    font-size: 45px;
+    color: white; 
+    margin-top: 100px; 
+    margin-bottom: 25px;
+}
+#start, #stop  {
+    border: none;  
+    color: black; 
+    font-size: 20px; 
+    margin-left: 50px;
+}
+#restart {
+    border: none;  
+    color: black; 
+    font-size: 20px; 
+    margin-left: 100px; 
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
